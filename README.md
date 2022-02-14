@@ -21,9 +21,9 @@ Variables COUPON and NEW are removed by backward elimination
 We focused on RMSE and Adjusted R^2
 Result: The two models perform similarly. It shows that even without COUPON and NEW, we can achieve the same level of performance. In other words, COUPON and NEW are not useful in prediction of FARE. 
 
-# Suggestion 
-*Vacation and route that Southwest will have low fares therefore, companies should invest more flights into routes that have these 2 factors. 
-*New carriers will also have lower fares. There will be more coupon if fare is lower.  
-*The place has more population will sell more tickets. They should price based on these factors. By giving more coupon and put more route into high population city. 
-*The high income city will have a higher fares therefore, companies should invests more route into these cities. 
+# Suggestions/insights 
+1. Vacation and route that Southwest will have low fares therefore, companies should invest more flights into routes that have these 2 factors. 
+2. New carriers will also have lower fares. There will be more coupon if fare is lower.  
+3. The place has more population will sell more tickets. They should price based on these factors. By giving more coupon and put more route into high population city. 
+4. The high income city will have a higher fares therefore, companies should invests more route into these cities. 
 
