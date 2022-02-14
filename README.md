@@ -26,3 +26,4 @@ Result: The two models perform similarly. It shows that even without COUPON and 
 *New carriers will also have lower fares. There will be more coupon if fare is lower.  
 *The place has more population will sell more tickets. They should price based on these factors. By giving more coupon and put more route into high population city. 
 *The high income city will have a higher fares therefore, companies should invests more route into these cities. 
+
